@@ -1,5 +1,5 @@
-# Proyecto de Preparación de Imágenes para Entrenamiento de Redes Neuronales Convolucionales Alpha 0.0001
-
+# Proyecto de Preparación de Imágenes para Entrenamiento de Redes Neuronales Convolucionales 
+## Versión alpha 0.0001
 Este es un proyecto personal que tiene como objetivo crear un programa capaz de preparar imágenes para el entrenamiento de un modelo de red neuronal convolucional.
 
 ## Descripción
